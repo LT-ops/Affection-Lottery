@@ -40,7 +40,7 @@
                                 package: o.a,
                                 options: {
                                     rpc: {
-                                        369: "https://rpc.pulsechain.com"
+                                        56: "https://bsc-dataseed.binance.org"
                                     }
                                 }
                             }
